@@ -50,3 +50,4 @@ The ICC Cricket World Cup is the international championship of One Day Internati
 
 ## References:
  * [https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals](https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals)
+ * [https://www.dreamstime.com/royalty-free-stock-photo-green-cricket-pitch-image16967845](https://www.dreamstime.com/royalty-free-stock-photo-green-cricket-pitch-image16967845)
