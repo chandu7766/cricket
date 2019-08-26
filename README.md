@@ -47,3 +47,6 @@ The ICC Cricket World Cup is the international championship of One Day Internati
 * England
 
     1.2019
+
+References:
+ * [https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals](https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals)
