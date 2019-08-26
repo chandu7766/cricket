@@ -13,19 +13,19 @@ The ICC Cricket World Cup is the international championship of One Day Internati
 
 ### World cup winning teams
 * West Indies 
-  > 1.1975
-  > 2.1979
+    1.1975
+    2.1979
 * India 
-  > 1.1983
-  > 2.2011
+    1.1983
+    2.2011
 * pakistan
-  > 1.1992
+    1.1992
 * srilanka
-  >1.1996
+    1.1996
 * Australia
-  >1.1999
-  >2.2003
-  >3.2007
-  >4.1987
-  >5.2015 
+    1.1999
+    2.2003
+    3.2007
+    4.1987
+    5.2015 
 * 2019 England
