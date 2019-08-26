@@ -8,4 +8,13 @@ Cricket was being played in the south-east of England by 1598. The sparse inform
 
 ## main event of cricket:WORLD CUP
 The ICC Cricket World Cup is the international championship of One Day International (ODI) cricket. The event is organised by the sport's governing body, the International Cricket Council (ICC), every four years, with preliminary qualification rounds leading up to a finals tournament. The tournament is one of the world's most viewed sporting events and is considered the "flagship event of the international cricket calendar" by the ICC.The first World Cup was organised in England in June 1975, with the first ODI cricket match having been played only four years earlier.
+
 ![WORLD CUP](Icc_cricket_world_cup_trophy.jpg)
+
+### World cup winning teams
+* 1975 West Indies
+* 1979 West Indies
+* 1983 India
+* 1987 australia
+* 1992 pakistan
+* 1996 srilanka
