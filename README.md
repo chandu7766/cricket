@@ -13,8 +13,11 @@ The ICC Cricket World Cup is the international championship of One Day Internati
 
 ### World cup winning teams
 * West Indies 
+
     1.1975
+    
     2.1979
+    
 * India 
     1.1983
     2.2011
